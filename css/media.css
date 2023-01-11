@@ -1,0 +1,220 @@
+
+@media (max-width: 767.98px) { 
+  .im-do{
+    display: block;
+    margin-left: 1em;
+}
+.job{
+  display: block;
+}
+.top-num{
+  display: block;
+
+}
+.jobs{
+  margin-left: 10em;
+
+}
+.but-ch{
+  margin-left:19em;
+}
+.but-book{
+  margin-left: 23em;
+}
+.top-num{
+  display: block;
+
+}
+.bot-num{
+  display: block;
+
+}
+.im-time{
+  display: block;
+}
+.an{
+  align-items: center;
+}
+.img-an{
+  margin-left: 15em;
+}
+.h-img{
+  margin-left:-2em;
+}
+.img-top{
+  display: block;
+}
+.img-ui{
+  display: block;
+}
+#ctp{
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+.divFood2{
+  margin-top: 2em;
+}
+.divFood5{
+  margin-top: 2em;
+}
+.divFood6{
+  margin-top: 2em;
+}
+.im-time{
+  margin-left: 9em;
+  margin-top: 3em;
+}
+.ttuy{
+  display: block;
+}
+.mgm {
+ padding-bottom: 3em;
+ }
+ .mgmg{
+  padding-bottom: 3em;
+
+ }
+}
+@media (max-width: 575.98px) { 
+  .im-time{
+    display: block;
+  }
+  .top-num{
+    display: block;
+  
+  }
+  .bot-num{
+    display: block;
+
+  }
+  .but-book{
+    margin-left: 10em;
+  }
+  .job{
+    display: block;
+  }
+  #ctp{
+    margin-top: 1em;
+    margin-bottom: 1em;
+  }
+  .divFood2{
+    margin-top: 2em;
+  }
+  .divFood5{
+    margin-top: 2em;
+  }
+  .divFood6{
+    margin-top: 2em;
+  }
+  .img-top{
+    display: block;
+  }
+  .img-ui{
+    display: block;
+  }
+  .im-do{
+    display: block;
+    margin-left: 3em;
+  }
+  .img-an{
+    margin-left:8em;
+  }
+  .but-ch{
+    margin-left:10em;
+
+  }
+  .h-img{
+    margin-left:0em;
+  }
+  /* #ctp {
+    margin-top: 3em;
+  } */
+  .im-time{
+    margin-left: 0em;
+    margin-top: 3em;
+  }
+  .ttuy{
+    display: block;
+  }
+  .mgm {
+   padding-bottom: 3em;
+   }
+   .mgmg{
+    padding-bottom: 3em;
+  
+   }
+  }
+
+ @media (min-width: 767.98px) and (max-width:1023px){ 
+  .im-do{
+    display: block;
+    margin-left: 1em;
+}
+.job{
+  display: block;
+}
+.top-num{
+  display: block;
+
+}
+.but-ch{
+  margin-left: 27em;
+}
+.but-book{
+  margin-left: 29em;
+}
+.top-num{
+  display: block;
+
+}
+.bot-num{
+  display: block;
+
+}
+.jobs{
+  margin-left: 14em;
+}
+.im-time{
+  display: block;
+  margin-left: 20em;
+  margin-top: 3em;
+}
+.an{
+  align-items: center;
+}
+.img-an{
+  margin-left: 21em;
+}
+.h-img{
+  margin-left:-2em;
+}
+.img-top{
+  display: block;
+}
+.img-ui{
+  display: block;
+}
+#ctp{
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+.divFood2{
+  margin-top: 2em;
+}
+.divFood5{
+  margin-top: 2em;
+}
+.divFood6{
+  margin-top: 2em;
+}
+.ttuy{
+  display: block;
+}
+.mgm {
+ padding-bottom: 3em;
+ }
+ .mgmg{
+  padding-bottom: 3em;
+
+ }
+}
